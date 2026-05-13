@@ -2,13 +2,13 @@ El prestente proyecto trata de una solución de principio a fin para un área de
 
 El proyecto consiste en la implementación de un dashboard operativo desarrollado en Power BI.
 
-La solución plantea todo el proceso de principio a fin. Desde la obtención de los datos, alojamiento de estos en una plataforma de nube, como se gestionan a través de un gestor de bases de datos mediante SQL hasta como se presenta en producción para el departamento requerido.
+La solución plantea todo el proceso de principio a fin. Desde la obtención de los datos, alojamiento de estos en una plataforma de nube, cómo se gestionan a través de un gestor de bases de datos mediante SQL hasta cómo se presenta en producción para el departamento requerido.
 
 Las tecnologías que utilicé para el presente proyecto fueron:
 
--Azure - Como plataforma de cloud
--SQL Server - Como gestor de bases de datos
--Power BI - como Dashboard operativo.
+-Azure - Plataforma de cloud
+-SQL Server - Gestor de bases de datos
+-Power BI - Dashboard operativo.
 
 Lo importante de este proyecto es el desarrollo detrás del dashboard. Desde la normalización de los datos hasta la integración del gestor de cloud con el gestor de bases de datos.
 

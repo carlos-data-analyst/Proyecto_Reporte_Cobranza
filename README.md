@@ -2,7 +2,7 @@ El prestente proyecto trata de una solución de principio a fin para un área de
 
 El proyecto consiste en la implementación de un dashboard operativo desarrollado en Power BI.
 
-La solución plantea todo el proceso de principio a fin. Desde la obtención de los datos, alojamiento de estos en una plataforma de nube, cómo se gestionan a través de un gestor de bases de datos mediante SQL hasta cómo se presenta en producción para el departamento requerido.
+La solución plantea todo el proceso de principio a fin. Desde la obtención de los datos, alojamiento de estos en una plataforma de nube, cómo se gestionan a través de un gestor de bases de datos mediante SQL, hasta cómo se presenta en producción para el departamento requerido.
 
 Las tecnologías que utilicé para el presente proyecto fueron:
 

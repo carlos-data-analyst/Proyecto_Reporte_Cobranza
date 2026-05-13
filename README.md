@@ -7,7 +7,9 @@ La solución plantea todo el proceso de principio a fin. Desde la obtención de 
 Las tecnologías que utilicé para el presente proyecto fueron:
 
 -Azure - Plataforma de cloud
+
 -SQL Server - Gestor de bases de datos
+
 -Power BI - Dashboard operativo.
 
 Lo importante de este proyecto es el desarrollo detrás del dashboard. Desde la normalización de los datos hasta la integración del gestor de cloud con el gestor de bases de datos.

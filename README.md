@@ -17,3 +17,19 @@ Lo importante de este proyecto es el desarrollo detrás del dashboard. Desde la 
 El dashboard en este caso lo quise dejar lo más sencillo posible, solo con la información requerida, pero claro, el diseño y los KPI´s los indicará el área de negocio correspendiente al momento de levantar los requerimientos.
 
 Para ver con detalle el proyecto, te invito a verlo en video en la plataforma de youtube: https://www.youtube.com/watch?v=0_cfzBb8HBg
+
+
+
+RUTA: la ruta que seguí para el presnete proyecto consistió
+
+-  1.- Normalizar el set de datos, como resultado de obtuvieron 11 tablas.
+  
+-  2.- Posteriormente se creó un contenedor en la plataforma de Azure/Cloud, con la finalidad de alojar toda la data.
+
+-  3.- Se creó el servidor encargado de alojar la base de datos, y posteriormente se creó y testeó la base de datos.
+
+-  4.- Se alimentó la base de datos con las 11 tablas resultantes del punto 1.
+
+-  5.- Se conectó Power BI a la base de datos con la finalidad visualizar los KPI´s.
+
+-  NOTA: Se hace el modelado de la data en el gestor de base de datos y no en power BI con la finalidad de que no disminuya el desempeño del dashboard. El motor de SQL optimiza el procesamiento de datos y power BI solo muestra los datos, procurando así el mejor desempeño.

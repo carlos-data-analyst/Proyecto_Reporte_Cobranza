@@ -20,7 +20,7 @@ Para ver con detalle el proyecto, te invito a verlo en video en la plataforma de
 
 
 
-RUTA: la ruta que seguí para el presnete proyecto consistió
+RUTA: la ruta que seguí para el presente proyecto consistió:
 
 -  1.- Normalizar el set de datos, como resultado de obtuvieron 11 tablas.
   

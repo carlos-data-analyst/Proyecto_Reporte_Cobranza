@@ -36,6 +36,3 @@ RUTA: la ruta que seguí para el presente proyecto consistió:
 
 -  NOTA 2: Desafortunadamente ya no es posible compartir el dashboard, ya que la cuenta de correo electrónico con la que se creó el contenedor de Azure fue dada de baja, por lo que se perdió la conexión entre la data y el dashboard. Sim embargo, se comparten capturas de pantalla en la carpeta "Vistas Dashboard".
 
--  En caso de querer conocer el proyecto con detalle, puede ver el video en YouTube, el cuál dura al rededor de 30 minutos, sin embargo, puede configurar la velocidad de este para que la duración sea menor:
-
-https://www.youtube.com/watch?v=0_cfzBb8HBg&t=4s

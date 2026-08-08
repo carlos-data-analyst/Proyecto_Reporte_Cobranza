@@ -16,7 +16,7 @@ Lo importante de este proyecto es el desarrollo detrás del dashboard. Desde la 
 
 El dashboard en este caso lo quise dejar lo más sencillo posible, solo con la información requerida, pero claro, el diseño y los KPI´s los indicará el área de negocio correspendiente al momento de levantar los requerimientos.
 
-Para ver con detalle el proyecto, te invito a verlo en video en la plataforma de youtube: https://www.youtube.com/watch?v=0_cfzBb8HBg
+Para ver con detalle el proyecto, te invito a verlo en video en la plataforma de youtube. Debo mencionar que es un algo extenso, al rededor de 30 minutos, sin embargo, puedes modificar la velocidad del video para acelerarlo: https://www.youtube.com/watch?v=0_cfzBb8HBg
 
 
 

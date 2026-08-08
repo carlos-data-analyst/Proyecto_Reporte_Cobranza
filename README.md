@@ -22,7 +22,7 @@ Para ver con detalle el proyecto, te invito a verlo en video en la plataforma de
 
 RUTA: la ruta que seguí para el presente proyecto consistió:
 
--  1.- Normalizar el set de datos, como resultado de obtuvieron 11 tablas.
+-  1.- Normalizar la tabla maestra, como resultado de obtuvieron 11 tablas.
   
 -  2.- Posteriormente se creó un contenedor en la plataforma de Azure/Cloud, con la finalidad de alojar toda la data.
 
@@ -33,3 +33,9 @@ RUTA: la ruta que seguí para el presente proyecto consistió:
 -  5.- Se conectó Power BI a la base de datos con la finalidad visualizar los KPI´s.
 
 -  NOTA: Se hace el modelado de la data en el gestor de base de datos y no en power BI con la finalidad de que no disminuya el desempeño del dashboard. El motor de SQL optimiza el procesamiento de datos y power BI solo muestra los datos, procurando así el mejor desempeño.
+
+-  NOTA 2: Desafortunadamente ya no es posible compartir el dashboard, ya que la cuenta de correo electrónico con la que se creó el contenedor de Azure fue dada de baja, por lo que se perdió la conexión entre la data y el dashboard. Sim embargo, se comparten capturas de pantalla en la carpeta "Vistas Dashboard".
+
+-  En caso de querer conocer el proyecto con detalle, puede ver el video en YouTube, el cuál dura al rededor de 30 minutos, sin embargo, puede configurar la velocidad de este para que la duración sea menor:
+
+https://www.youtube.com/watch?v=0_cfzBb8HBg&t=4s

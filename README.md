@@ -22,7 +22,7 @@ Para ver con detalle el proyecto, te invito a verlo en video en la plataforma de
 
 RUTA: la ruta que seguí para el presente proyecto consistió:
 
--  1.- Normalizar la tabla maestra, como resultado se obtuvieron 11 tablas.
+-  1.- Normalizar la tabla maestra "Análisis de Riesgo Crediticio.xlsx", como resultado se obtuvieron 11 tablas.
   
 -  2.- Posteriormente se creó un contenedor en la plataforma de Azure/Cloud, con la finalidad de alojar toda la data.
 

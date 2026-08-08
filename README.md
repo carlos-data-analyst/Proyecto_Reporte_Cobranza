@@ -34,5 +34,5 @@ RUTA: la ruta que seguí para el presente proyecto consistió:
 
 -  NOTA: Se hace el modelado de la data en el gestor de base de datos y no en power BI con la finalidad de que no disminuya el desempeño del dashboard. El motor de SQL optimiza el procesamiento de datos y power BI solo muestra los datos, procurando así el mejor desempeño.
 
--  NOTA 2: Desafortunadamente ya no es posible compartir el dashboard, ya que la cuenta de correo electrónico con la que se creó el contenedor de Azure fue dada de baja, por lo que se perdió la conexión entre la data y el dashboard. Sim embargo, se comparten capturas de pantalla en la carpeta "Vistas Dashboard".
+-  NOTA 2: Desafortunadamente ya no es posible compartir el dashboard, ya que la cuenta de correo electrónico con la que se creó el contenedor de Azure fue dada de baja, por lo que se perdió la conexión entre la data y el dashboard. Sin embargo, se comparten capturas de pantalla en el archivo "Vistas y Dashboard".
 
